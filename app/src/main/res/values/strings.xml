@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Editor Bold 2</string>
+
+    <string name="underline_button"><u>ABC</u></string>
+</resources>
